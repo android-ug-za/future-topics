@@ -10,3 +10,5 @@ List of potential future topics for the meetup:
 * ART vs Dalvik
 * Developing for Google Cardboard
 * AR with Vuforia
+* OpenGL
+* JNI (native code in C++)
